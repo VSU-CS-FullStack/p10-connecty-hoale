@@ -1,0 +1,77 @@
+commit 9c2b8f3e8980946d38f665aac0cf35f9b9498e5a
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 09:51:50 2022 -0400
+
+    finished part 1
+
+commit 574064b50e34ac68543a4bbc2e88e1113a7985d8
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 06:47:09 2022 -0400
+
+    I suddenly realized that I made an error and my app was actually working before the heroku deployment so I'm reverting the code back to before this mess.
+
+commit 64115fa0bf976d065a015d6e0d477a40fa8a3daf
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 01:19:22 2022 -0400
+
+    heroku trouble shoot2
+
+commit a1da25196a26297d8db19ef4dffe86c9ea66d3fb
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 01:12:22 2022 -0400
+
+    heroku
+
+commit a61ecf82c5e2a45ee4085a2c23626e1b60b2d930
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 00:45:59 2022 -0400
+
+    reorganize the config/ folder and getting ready for deploying the API server to Heroku
+
+commit a60f479f1586d82502f780e6264526cf969add2c
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 00:44:19 2022 -0400
+
+    Server-side validation
+
+commit 092d3943d0c41141c59365deb9d766c305c97e7d
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 00:36:43 2022 -0400
+
+    passport jwt authencticaiton strategy
+
+commit 839cd483b945a321b6004bd4f8c766cb03ed322d
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 00:33:31 2022 -0400
+
+    created JSON web tokens
+
+commit d47f4eb9f026c1bb42d9dd0ec2fa5def80f9bad6
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 00:31:21 2022 -0400
+
+    created user login
+
+commit 1ffe0dbff71275d92cf9a1cca62aec82fbba6964
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 00:29:51 2022 -0400
+
+    created user registration
+
+commit 753530ba6342958efc7c6f8c2a79f17a5ab69572
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Tue Apr 19 00:05:28 2022 -0400
+
+    created three routes
+
+commit cd1126d113f99feffe88b8862f2975ed3e795afb
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Mon Apr 18 23:58:00 2022 -0400
+
+    fixed untracked files
+
+commit 4bf20af3462dcd55b8842e555a0cc9af4a739e15
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Mon Apr 18 23:34:56 2022 -0400
+
+    created a new Node.js app
