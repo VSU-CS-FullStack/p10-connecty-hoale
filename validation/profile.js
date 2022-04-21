@@ -34,6 +34,7 @@ module.exports = function validateProfileInput(data) {
         }
     }
 
+    
     if (!_.isEmpty(data.twitter)) {
         if (!validator.isURL(data.twitter)) {
             errors.twitter = "Not a valid URL";
