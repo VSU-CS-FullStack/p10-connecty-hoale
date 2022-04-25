@@ -1,3 +1,39 @@
+commit 1f14cd0f6f4def8da48bbc37392107896586ba82
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Wed Apr 20 22:46:27 2022 -0400
+
+    Able to delete user profile
+
+commit 21f0455bdbc994eb239f35db689f72ab8305fcc3
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Wed Apr 20 22:43:43 2022 -0400
+
+    Able to delete experience and education
+
+commit 7fba655a2cfffc27af2db99bd912ce8a503cae26
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Wed Apr 20 22:33:38 2022 -0400
+
+    Able to add experience and education
+
+commit 58c40ec566614f0ffff2c2517ec6be20bdfcf8d7
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Wed Apr 20 22:22:59 2022 -0400
+
+    Added more proofile API routes
+
+commit 7cc35275e3b1696f1cccc6139b933264e6869d2a
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Wed Apr 20 22:07:49 2022 -0400
+
+    Create and updated profile routes and made user profile validations
+
+commit 982cd0758e96cad748a2f6f8481c651fbea0f067
+Author: hnqle3 <hoa.nq.le3@gmail.com>
+Date:   Wed Apr 20 22:00:41 2022 -0400
+
+    Created current user profile
+
 commit 9c2b8f3e8980946d38f665aac0cf35f9b9498e5a
 Author: hnqle3 <hoa.nq.le3@gmail.com>
 Date:   Tue Apr 19 09:51:50 2022 -0400
